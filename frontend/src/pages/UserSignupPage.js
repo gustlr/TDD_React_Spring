@@ -19,7 +19,7 @@ export class UserSingnupPage extends React.Component {
                    <input placeholder ="Repeat your password" type = "password"></input> 
                 </div>
                 <div>
-                    <button>Sign Up</button>
+                    <button>Sign Upp</button>
                 </div>
             </div>
         )
